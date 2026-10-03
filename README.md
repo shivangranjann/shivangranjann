@@ -68,7 +68,6 @@ A developer portfolio showcasing my projects, technical skills, and experience.
 
 ## 📚 Currently Learning
 
-```text
 Java & DSA
      ↓
 Problem Solving
@@ -79,7 +78,7 @@ Backend & REST APIs
      ↓
 Google Cloud & AI/ML
 
-
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivangranjann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivangranjan098@gmail.com) 
@@ -97,4 +96,3 @@ Google Cloud & AI/ML
 ---
 [![](https://komarev.com/ghpvc/?username=shivangranjann&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
