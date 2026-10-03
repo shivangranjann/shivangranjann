@@ -1,6 +1,43 @@
-# 💫 About Me:
-# Hi, I'm Shivang Ranjan 👋<br><br>### B.Tech CSE (AI & ML) Student | Web Developer | Java & DSA<br><br>I'm a Computer Science student interested in building practical projects and improving my problem-solving skills. I enjoy learning new technologies by actually building things with them.<br><br>## 🚀 About Me<br><br>- 🔭 I'm currently building web and AI/ML projects<br>- 👯 I'm open to collaborating on interesting projects<br>- 🤝 I'm improving my DSA and backend skills<br>- 🌱 Currently learning Java, React, DSA & AI/ML<br>- 💬 Ask me about Java, Web Development & DSA<br>- ⚡ Fun fact: I enjoy learning by building projects<br><br>## 🛠️ Tech Stack<br><br>**Languages:**  <br>Java • JavaScript • Python • C<br><br>**Frontend:**  <br>HTML • CSS • JavaScript • React<br><br>**Backend & Database:**  <br>Node.js • Express.js • Firebase • Supabase<br><br>**Tools:**  <br>Git • GitHub • VS Code • Vercel<br><br>## 📌 Featured Projects<br><br>- 🌐 **Portfolio Website** – Personal portfolio showcasing my skills and projects<br>- 🛒 **MahuaXpress** – Hyperlocal e-commerce and delivery platform<br>- 🌾 **FarmAssist** – Farmer-focused web application concept<br><br>## 📊 Coding Profiles<br><br>- 💻 LeetCode<br>- 🐙 GitHub<br>- 💼 LinkedIn<br><br>## 📫 Connect With Me<br><br>Feel free to connect with me and collaborate on interesting projects!
+Hi, I'm Shivang Ranjan 👋
+🎓 B.Tech CSE (AI & ML) Student
+💻 Full-Stack Developer | Java & DSA
+☁️ Google Cloud Learner
+🤝 Active Member of @GDG HIT
 
+I'm a CSE-AIML student focused on building practical projects, improving my problem-solving skills. I enjoy learning new technologies by actually building things with them.
+
+🚀 Currently Working On
+- 🔭 I'm currently building web and AI/ML projects
+- 👯 I'm open to collaborating on interesting projects
+- 🤝 I'm improving my DSA and backend skills
+- 🌱 Currently learning Java, React, DSA & AI/ML
+- 💬 Ask me about Java, Web Development & DSA
+- ⚡ Fun fact: I enjoy learning by building projects
+
+🛠️ Tech Stack
+Languages:
+Java · JavaScript · HTML · CSS . Python
+
+Web Development:
+HTML · CSS · JavaScript · Responsive Design
+
+Backend & Database:
+Supabase · REST APIs · Firebase
+
+Tools & Platforms:
+Git · GitHub · Vercel · Google cloud · VS Code
+
+📌 Featured Projects
+
+- 🌐 Portfolio Website – Personal portfolio showcasing my skills and projects
+- 🛒 MahuaXpress – Hyperlocal e-commerce and delivery platform
+- 🌾 FarmAssist – Farmer-focused web application concept
+
+📊 Coding Profiles
+
+- 💻 LeetCode
+- 🐙 GitHub
+- 💼 LinkedIn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivangranjann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivangranjan098@gmail.com) 
